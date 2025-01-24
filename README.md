@@ -1,6 +1,4 @@
-Supermarket Billing Management System
-
-Overview
+# Supermarket Billing Management System
 
 This project implements a **Supermarket Billing Management System** in C, using doubly linked lists for dynamic item handling and file storage for data persistence. The system provides features for managing a cart, generating bills, and updating item databases.
 
@@ -36,6 +34,11 @@ This project implements a **Supermarket Billing Management System** in C, using 
 - **`Encrypted.bin`**: Stores the encrypted password for database access.
 
 ## How to Run
+
+### Note:
+
+- It works only in Windows OS
+- To run on LINUX/Mac OS `replace` all `getch();` function calls with `getchar()`;
 
 1. Compile the code using a C compiler (e.g., GCC):
    ```bash
@@ -85,12 +88,9 @@ This project implements a **Supermarket Billing Management System** in C, using 
 - Enhance input validation and error handling.
 - Implement a graphical user interface.
 - Add real-time stock management.
-- Encrypt sensitive data (e.g., item database).
+- Encrypt sensitive data (e.g., user logins(password), database password(required to update database)).
+- Forget password for database updation
 
 ## Authors
 
-- [Your Name or Team Name]
-
----
-
-Let me know if you'd like further modifications or additions!
+- SAI DEEKSHITH KONDA
