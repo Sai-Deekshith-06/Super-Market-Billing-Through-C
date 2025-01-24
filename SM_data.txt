@@ -1,0 +1,16 @@
+1 5.00 0.00 Munch
+2 20.00 0.00 Munch Nuts
+3 207.00 2.00 Dairy Milk Silk
+4 10.00 1.00 5 Star
+5 20.00 0.00 Sprite
+6 30.00 0.00 Coca Cola
+7 35.00 0.00 Buterscotch Cup
+101 1400.00 5.00 Rice Bag_25kgs
+102 40.00 1.00 Sugar_1kg
+103 60.00 3.00 Dal_1kg
+104 130.00 3.00 Freedom Sunflower
+105 45.00 1.00 Custard_Vanila
+143 279.00 2.00 Paneer_250g
+222 99.00 2.00 Tooth Paste_75g
+18 400.00 1.00 Dettol
+123 120.00 10.00 Apples_4pcs

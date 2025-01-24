@@ -1,0 +1,7 @@
+S.no.	Name                 M.R.P   	Discount	Amount	Quantity
+3		Dairy Milk Silk      207.00		2.00 %		811.44	  4
+123		Apples_4pcs          120.00		10.00 %		432.00	  4
+
+	->	Total amount = 1243.44
+		Billed by "sai"
+<======----------------------------------------------------------------
