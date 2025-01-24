@@ -38,7 +38,7 @@ This project implements a **Supermarket Billing Management System** in C, using 
 ### Note:
 
 - It works only in Windows OS
-- To run on LINUX/Mac OS `replace` all `getch();` function calls with `getchar()`;
+- To run on LINUX/Mac OS replace all `getch();` function calls with `getchar()`;
 
 1. Compile the code using a C compiler (e.g., GCC):
    ```bash
