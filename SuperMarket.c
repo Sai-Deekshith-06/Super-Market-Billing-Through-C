@@ -8,7 +8,7 @@ Super maeket billing management system usuing dll
 #include<ctype.h>   //toupper(),
 
 #define file "SM_data.txt"  //name of file, which contains the data of items in the store
-#define sfile "sales.txt"   //name the file, which stores the paid bills 
+#define sfile "bills.txt"   //name the file, which stores the paid bills 
 
 struct itemDetails {
     int itemCode;
