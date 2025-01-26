@@ -2,6 +2,10 @@
 
 This project implements a **Supermarket Billing Management System** in C, using doubly linked lists for dynamic item handling and file storage for data persistence. The system provides features for managing a cart, generating bills, and updating item databases.
 
+## Preview
+
+https://github.com/user-attachments/assets/896f87fe-6f32-4992-87ac-5393f73f7d55
+
 ## Features
 
 1. **Cart Operations**
